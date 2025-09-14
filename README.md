@@ -34,11 +34,12 @@ In this project, I built a **Temperature Converter** using **Python Tkinter**, w
 
 Run the Python file
 
-python temperature_converter.py
-
+ ```bash
+   python temp_converter.py
+ ```
 ## 📸 Sneak Peek
 
-
+![Converter Screenshot](screenshot3.png)
 
 ## 📖 What I Learned
 
