@@ -19,7 +19,7 @@ In this project, I built a **Temperature Converter** using **Python Tkinter**, w
 
 ---
 
-## 📌 Features in Detail
+## 📌 Features
 ✅ Celsius → Fahrenheit / Kelvin  
 ✅ Fahrenheit → Celsius / Kelvin  
 ✅ Kelvin → Celsius / Fahrenheit  
