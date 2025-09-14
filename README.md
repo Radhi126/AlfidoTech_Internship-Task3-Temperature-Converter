@@ -28,8 +28,6 @@ In this project, I built a **Temperature Converter** using **Python Tkinter**, w
 
 ---
 
----
-
 ## ⚙️ How to Run
 
 Run the Python file
@@ -37,9 +35,12 @@ Run the Python file
  ```bash
    python temp_converter.py
  ```
+---
 ## 📸 Sneak Peek
 
 ![Converter Screenshot](screenshot3.png)
+
+---
 
 ## 📖 What I Learned
 
@@ -48,6 +49,7 @@ Run the Python file
 - 🎨 **Designing user-friendly interfaces with Tkinter**
 - 💡 **Strengthening problem-solving & coding confidence**
 
+---
 ## 🌟 Internship Journey
 
 This project is part of my Alfido Tech Internship, where I’m exploring Python development through practical, hands-on tasks. Every task adds a new layer to my learning 
